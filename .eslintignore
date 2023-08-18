@@ -34,3 +34,4 @@ npm-debug.log.*
 
 assets.d.ts
 tailwind.config.js
+.eslintrc.js
